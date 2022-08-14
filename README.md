@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @foivos
+- 👀 I’m interested in deep Reinforcement learning
+- 🌱 I’m currently learning everything I find interesting
